@@ -1,0 +1,2 @@
+fungsi perogram ini adalah untuk menjadi alat penghitung biaya yang sesuai diberikan oleh program nya diluar program tsb akan error cara kerja program ini adalah dia akan memilah data yang dimasukkan user termasuk A atau B dan mengeluarkan printah program ini screenshot hasilnya:
+<img width="1875" height="1019" alt="Screenshot 2025-11-04 134111" src="https://github.com/user-attachments/assets/f02c652f-fc8a-4610-b676-dfe58097d563" />
